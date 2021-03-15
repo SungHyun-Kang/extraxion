@@ -2,6 +2,8 @@ git text
 
 add testing message [SungHyun-Kang]
 
-hi hello hi
-dkdk
-dfdsfa
+try try try
+
+dry dry dry
+
+cry cry cry
