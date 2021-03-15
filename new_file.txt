@@ -2,12 +2,8 @@ git text
 
 add testing message [SungHyun-Kang]
 
-@remonte update file
-
-hi hello hi
-
-hey hey hey
-
 cry cry cry
 
 try try try
+
+dry dry dry
